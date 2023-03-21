@@ -1,0 +1,44 @@
+
+body{
+   background-color: rgba(15, 209, 96, 0.651);
+}
+
+.heading{
+   font-size: 22px;
+   color: rgb(0, 0, 0);
+   width: 100%;
+   background-color: rgba(35, 185, 255, 0.979);
+   box-shadow: 2px 2px 5px grey;
+   top: 0;
+   line-height: 2;
+   margin: 0px;
+}
+
+.note{
+   font-size: 12px;
+   color: rgba(0, 0, 0, 0.548);
+   font-weight: bold;
+}
+
+#size{
+   font-size: 18px;
+   color: rgba(0, 0, 0, 0.993);
+   font-weight: bold;
+}
+
+.footer{
+position: fixed;
+width: 100%;
+font-size: 16px;
+line-height: 2;
+background-color: grey;
+bottom: 0;
+color: black;
+font-weight: bold;
+}
+
+canvas{
+   border: 1px solid black;
+   border-radius: 25px;
+   box-shadow: 5px 5px 5px grey;
+}
